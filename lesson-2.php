@@ -1,5 +1,5 @@
 <?php
 
-echo "Lesson 1 learning Git & GitHub";
-
+echo "Lesson 2 learning Git & GitHub";
+echo "This is lesson 2";
 ?>
